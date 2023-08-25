@@ -10,4 +10,7 @@ Final project of an academic course in Signal and Image Processing Fundamentals
 
 Inside the "failures" repository there are some failed attempts of the filters when they were still in development.
 
+<br>
+<br>
+
 For further information about the project (functions and methods used, thought process, failures and related solutions and various observations) read finalProjectFESI.ipynb or finalProject.pdf (I apologize in that is in italian, I have yet to find the time to translate it)
